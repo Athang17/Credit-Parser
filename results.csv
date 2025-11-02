@@ -1,0 +1,6 @@
+bank,last4,minimum_payment,payment_due_date,source_file,statement_closing_date,total_balance
+bank1,8907,25,1/23/XX,bank1.pdf,12/26/XX,"1,392.71"
+bank2,9752,,,bank2.pdf,"June 5, 2003","10,521.19"
+bank3,8007,,,bank3.pdf,,"6,620"
+bank4,,"5,000.00",,bank4.pdf,02/15/2009,"5,000"
+bank5,5396,"3,500",04/02/2024,bank5.pdf,17/01/2024,"3,500"
